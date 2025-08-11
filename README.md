@@ -28,9 +28,10 @@ For the test_data_questions dataset, we further augmented the data by introducin
 SUB_CHANNEL – Identifying the order source as App, Kiosk, or Website
 All code execution was done in Jupyter Notebooks, and the dependencies required to reproduce our work are listed in the requirements.txt file.
 
-final code .ipynb consists of our final recommendation system
-however the csv output file attached is based on past code where we item1 item2 to make item3 during validation
-to get the actual recommendation output sheet based on item1 item2 item3  please check our GitHub link
+NOTE: Due to file size limitations, we’re unable to upload it directly to GitHub. You can either access it via the Google Drive link provided below or use the dataset named "orders_grouped_cleaned(1).csv" included in the zip file uploaded on Unstop.
+Apologies for the inconvenience caused.
+[Click here to access the dataset](https://drive.google.com/drive/folders/163k9blJN8t1fR_l8syuK3dmzJGgxOYsj?usp=sharing).
+
 
 
 
