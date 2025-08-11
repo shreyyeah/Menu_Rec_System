@@ -28,6 +28,10 @@ For the test_data_questions dataset, we further augmented the data by introducin
 SUB_CHANNEL – Identifying the order source as App, Kiosk, or Website
 All code execution was done in Jupyter Notebooks, and the dependencies required to reproduce our work are listed in the requirements.txt file.
 
+final code .ipynb consists of our final recommendation system
+however the csv output file attached is based on past code where we item1 item2 to make item3 during validation
+to get the actual recommendation output sheet based on item1 item2 item3  please check our GitHub link
+
 
 
 
